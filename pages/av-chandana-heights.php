@@ -1,5 +1,5 @@
 <section>
-    <div class="page-section-barr-project" style="background-image:url(assets/img/projects/first/bg.svg)">
+    <div class="page-section-barr-project" style="background-image:url(assets/img/projects/Chandana-height1.webp)">
        <div class="container">
             <div class="pagesection-title">
                     <h1 style="color:white;">AV Chandana Heights</h1>
@@ -74,14 +74,12 @@ AV Chandana Heights is indeed an oasis of tranquility in the heart of city
 
       <div class="amenity">
         <div>
-            <span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>
             <span>Location</span>
         </div>
         <span class="time">Peerzadiguda Municipality, Hyderabad</span>
       </div>
       <div class="amenity">
         <div>
-            <span class="icon"><i class="fa-solid fa-train"></i></span>
             <span>Type</span>
         </div>
         <span class="time">Apartments</span>
@@ -224,21 +222,21 @@ AV Chandana Heights is indeed an oasis of tranquility in the heart of city
            
                     <div class="amenityy">
                       <img src="assets/img/projects/first/fitness-center.svg" alt="Fitness Center">
-                      <h4>A/c Fitness Center</h4>
+                      <h4>A/C Gymnasium</h4>
                     </div>
                
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/solar.svg" alt="Indoor Games">
+                      <img src="assets/img/projects/power.png" alt="Indoor Games">
                       <h4>Solar-fencing compound Wall</h4>
                     </div>
                  
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/intercom.svg" alt="Indoor Games">
+                      <img src="assets/img/projects/rectangle.png" alt="Indoor Games">
                       <h4>Intercom Facility</h4>
                     </div>
               
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/play-area.svg" alt="Indoor Games">
+                      <img src="assets/img/projects/rain-water.png" alt="Indoor Games">
                       <h4>Rain-harvesting pit</h4>
                     </div>
                    
@@ -261,8 +259,8 @@ AV Chandana Heights is indeed an oasis of tranquility in the heart of city
    <h2>Gallery</h2>
        <div class="gallery">
  
-       <a href="assets/img/projects/first/Av-Vinoothna-Homes-Villas-WestFacing-Villa-850x480.jpg" data-lightbox="gallery" data-title="My caption">
-  <img style="height:450px;width:400px" src="assets/img/projects/first/Av-Vinoothna-Homes-Villas-WestFacing-Villa-850x480.jpg" alt="Gallery Image">
+       <a href="assets/img/projects/Chandana-height1.webp" data-lightbox="gallery" data-title="My caption">
+  <img style="height:450px;width:400px" src="assets/img/projects/Chandana-height1.webp" alt="Gallery Image">
 </a>
        
        </div>
@@ -323,8 +321,7 @@ AV Chandana Heights is indeed an oasis of tranquility in the heart of city
     <div class="project-cform">
                     <h3>Location</h3>
 
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d487254.2712062311!2d78.536414!3d17.427426!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99005f90512d%3A0x8643bf502cf7ed1!2sA%20V%20Hyma%20residency!5e0!3m2!1sen!2sus!4v1734190219853!5m2!1sen!2sus" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d487314.439213842!2d78.596822!3d17.404873!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9eee8475d10f%3A0x8054ea6b35fc1df9!2s102%2C%20NH163%2C%20Sri%20Sai%20Nagar%2C%20Sai%20Nagar%20Colony%2C%20Peerzadiguda%2C%20Hyderabad%2C%20Telangana%20500039%2C%20India!5e0!3m2!1sen!2sus!4v1736503992891!5m2!1sen!2sus" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
     </div>
     
     <div class="col-xl-6">

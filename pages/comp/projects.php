@@ -44,7 +44,7 @@
     
     <h1>Completed Projects</h1>
 </div>
-            <div class="card-handler">
+            <div class="card-handler justify-content-start">
                 
                 <div class="card">
                    <a href="av-hyma.php">

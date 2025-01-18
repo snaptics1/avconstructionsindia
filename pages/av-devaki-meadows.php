@@ -22,13 +22,11 @@
  <div class="row">
     <div class="col-xl-4 col-lg-4">
     <div class="content">
-    <h1>Live a story of luxury. Open up to grand living.</h1>
+    <h1>Overview</h1>
     <p class="mb-0">
-      Life is like one long story with many interesting instances. It has dreams, it has endeavour, it has inspiration, and the desire to live the best. Let us make that happen for you at AV Vinoothna Homes, a gated-commune of premium villas.
-    </p>
+    Open lands have always been everyone’s desire. More than a desire, they have been a way to make the most from their investment. Or make the most of their imagination by building a residence of their dreams. Or just grow vegetables and fruits and do farming. Welcome to AV Devaki Meadows, residential plots/lands for sale in Keesara, Hyderabad.  where once you own up a plot, it’s open for your imagination and ideas.    </p>
     <p class="mb-0">
-    A story called AV Vinoothna Homes is designed to charm you like nothing else, with villas in both east and west directions. Let’s give you a glimpse of east-facing villas of size 3738 sft on 266 Sq.Yds. With 5 bedrooms and parking for 2 cars and abundant vast open spaces, here’s where you’ll live the best on a three-floor home.
-    </p>
+    AV Devaki Meadows is not just a mass of land and plots with in them. But a place that has everything to make line interesting and fun here. Whether in the future you wish to build a house here or wish to come here to do farming on your plot of land. Come to look at it, this could well be your weekend get way, where you come for peace and rejuvenation.    </p>
     <h6 class="-mt-5"> Live in the east, live beautiful.</h6>
 
     <div class="amenities">
@@ -69,43 +67,37 @@
             <!--<span class="icon"><i class="fa-solid fa-hospital"></i></span>-->
             <span>Status</span>
         </div>
-        <span class="time">Ongoing Project</span>
+        <span class="time">Open Plot</span>
       </div>
       <div class="amenity">
         <div>
             <!--<span class="icon"><i class="fa-solid fa-school"></i></span>-->
             <span>Area</span>
         </div>
-        <span class="time">3617 - 3738 Sq ft</span>
+        <span class="time">50acres</span>
       </div>
       <div class="amenity">
         <div>
             <!--<span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>-->
             <span>Location</span>
         </div>
-        <span class="time">Pocharam, Hyderabad</span>
+        <span class="time"> Hyderabad</span>
       </div>
       <div class="amenity">
         <div>
             <!--<span class="icon"><i class="fa-solid fa-train"></i></span>-->
             <span>Type</span>
         </div>
-        <span class="time">Luxurious Villas</span>
+        <span class="time">Open Plot</span>
       </div>
        <div class="amenity">
         <div>
             <!--<span class="icon"><i class="fa-solid fa-train"></i></span>-->
-            <span>Villas</span>
+            <span>Plots</span>
         </div>
-        <span class="time">161</span>
+        <span class="time">454</span>
       </div>
-       <div class="amenity">
-        <div>
-            <!--<span class="icon"><i class="fa-solid fa-train"></i></span>-->
-            <span>Villa Size</span>
-        </div>
-        <span class="time">3716 - 3738 Sq ft</span>
-      </div>
+
     </div>
 
   </div>
@@ -218,24 +210,21 @@
               <section class="amenities-section">
                   <h2>Amenities</h2>
                   <p>
-                  What’s a gated-commune without a nice and enthralling clubhouse! Smile, because here’s a club to pursue all your favourite and leisure activities near your house. We’ve designed it to be so convenient that it has everything from a supermarket to a spa.
-                  </p>
+                  AV Devaki Meadows is not just a mass of land and plots with in them. But a place that has everything to make line interesting and fun here.
+</p>
                   <div class="amenities-grid">
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/cctv.svg" alt="Surveillance System">
-                      <h4>Surveillance System</h4>
+                      <img src="assets/img/projects/basketball.png" alt="Surveillance System">
+                      <h4>Basketball Court</h4>
                     </div>
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/security.svg" alt="24×7 Security">
-                      <h4>24×7 Security</h4>
+                      <img src="assets/img/projects/volleyball.png" alt="24×7 Security">
+                      <h4>Beach Volleyball</h4>
                     </div>
-                    <div class="amenityy">
-                      <img src="assets/img/projects/first/firefighting.svg" alt="Firefighting System">
-                      <h4>Firefighting System</h4>
-                    </div>
+
                     <div class="amenityy">
                       <img src="assets/img/projects/first/swimming-pool.svg" alt="Swimming Pool">
-                      <h4>Swimming Pool with Deck</h4>
+                      <h4>Swimming Pool</h4>
                     </div>
                     <div class="amenityy">
                       <img src="assets/img/projects/first/play-area.svg" alt="Children's Play Area">
@@ -243,32 +232,22 @@
                     </div>
                     <div class="amenityy">
                       <img src="assets/img/projects/first/garden.svg" alt="Landscape Garden">
-                      <h4>Landscape Garden</h4>
+                      <h4>Fruit Trees</h4>
                     </div>
-                    <div class="amenityy">
-                      <img src="assets/img/projects/first/community-hall.svg" alt="Community Hall">
-                      <h4>AC Community Hall</h4>
-                    </div>
+
                     <div class="amenityy">
                       <img src="assets/img/projects/first/fitness-center.svg" alt="Fitness Center">
-                      <h4>Fitness Center</h4>
+                      <h4>Open Gym</h4>
                     </div>
                     <div class="amenityy">
                       <img src="assets/img/projects/first/indoor-games.svg" alt="Indoor Games">
                       <h4>Indoor Games</h4>
                     </div>
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/food-court.svg" alt="Food Court">
-                      <h4>Food Court</h4>
+                      <img src="assets/img/projects/runningtrack.png" alt="Food Court">
+                      <h4>Jogging Track</h4>
                     </div>
-                    <div class="amenityy">
-                      <img src="assets/img/projects/first/waiting-lounge.svg" alt="Waiting Lounge">
-                      <h4>Waiting Lounge</h4>
-                    </div>
-                    <div class="amenityy">
-                      <img src="assets/img/projects/first/supermarket.svg" alt="Supermarket">
-                      <h4>Supermarket</h4>
-                    </div>
+                    
                   </div>
                 </section>
 
@@ -287,29 +266,11 @@
         
     <h2>Gallery</h2>
         <div class="gallery">
-        <a href="assets/img/projects/first/01.svg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/01.svg" alt="Gallery Image">
+        <a href="assets/img/projects/devaki1.webp" data-lightbox="gallery" data-title="My caption">
+          <img src="assets/img/projects/devaki1.webp" alt="Gallery Image">
         </a>
-        <a href="assets/img/projects/first/Av-Vinoothna-Homes-Villas-WestFacing-Villa-850x480.jpg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/Av-Vinoothna-Homes-Villas-WestFacing-Villa-850x480.jpg" alt="Gallery Image">
-        </a>
-        <a href="assets/img/projects/first/03.svg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/03.svg" alt="Gallery Image">
-        </a>
-        <a href="assets/img/projects/first/04.svg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/04.svg" alt="Gallery Image">
-        </a>
-        <a href="assets/img/projects/first/05.svg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/05.svg" alt="Gallery Image">
-        </a>
-        <a href="assets/img/projects/first/06.svg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/06.svg" alt="Gallery Image">
-        </a>
-        <a href="assets/img/projects/first/07.svg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/07.svg" alt="Gallery Image">
-        </a>
-        <a href="assets/img/projects/first/08.svg" data-lightbox="gallery" data-title="My caption">
-          <img src="assets/img/projects/first/08.svg" alt="Gallery Image">
+        <a href="assets/img/projects/devaki2.webp" data-lightbox="gallery" data-title="My caption">
+          <img src="assets/img/projects/devaki2.webp" alt="Gallery Image">
         </a>
         </div>
     </div>
@@ -322,20 +283,10 @@
             <section class="tab-floor-plans">
                 <div class="tabs">
                   <button class="tab-button active" data-tab="master-plan">Master Plan</button>
-                  <button class="tab-button" data-tab="east-facing">East Facing Floor Plan</button>
-                  <button class="tab-button" data-tab="west-facing">West Facing Floor Plan</button>
                 </div>
                 <div class="tab-content active" id="master-plan">
-                  <img src="assets/img/projects/first/plan1.svg" alt="Master Plan">
+                  <img src="assets/img/projects/devakiplan.webp" alt="Master Plan">
                
-                </div>
-                <div class="tab-content" id="east-facing">
-                <img src="assets/img/projects/first/East-Plan.png" alt="Master Plan">
-                 
-                </div>
-                <div class="tab-content" id="west-facing">
-                <img src="assets/img/projects/first/West-Plan.png" alt="Master Plan">
-                 
                 </div>
               </section>
       </div>
@@ -363,8 +314,7 @@
     <div class="project-cform">
                     <h3>Location</h3>
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121817.02412111158!2d78.36275438474769!3d17.42224632248347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb975d953029a9%3A0xbd9d42ff407ef6d!2sB.M.%20Birla%20Science%20Center!5e0!3m2!1sen!2sin!4v1733417910818!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d486592.8602579573!2d79.096105!3d17.673507!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a32415adfbaa4dd%3A0xf91417068eae53c1!2sHyderabad%20-%20Warangal%20Hwy%2C%20Telangana%2C%20India!5e0!3m2!1sen!2sus!4v1736498131318!5m2!1sen!2sus" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
     </div>
     
     <div class="col-xl-6">
@@ -372,51 +322,12 @@
   
 
     <div class="location-highlights">
-     <div class="amenity">
-        <div>
-            <span class="icon"><i class="fa-solid fa-hospital"></i></span>
-            <span>Hospitals</span>
-        </div>
-        <span class="time">5 Mins</span>
-      </div>
-      <div class="amenity">
-        <div>
-            <span class="icon"><i class="fa-solid fa-school"></i></span>
-            <span>Schools</span>
-        </div>
-        <span class="time">10 Mins</span>
-      </div>
-     
-        <div class="amenity">
-        <div>
-            <span class="icon"><i class="fa-solid fa-train"></i></span>
-            <span>Singapore Township X Roads</span>
-        </div>
-        <span class="time">5 Mins</span>
-      </div>
-      
-              <div class="amenity">
-        <div>
-            <span class="icon"><i class="fa-solid fa-train"></i></span>
-            <span> Uppal Metro</span>
-        </div>
-        <span class="time">15 Mins</span>
-      </div>
-              <div class="amenity">
-        <div>
-            <span class="icon"><i class="fa-solid fa-train"></i></span>
-            <span>ORR Exit 9 Ghatkesar</span>
-        </div>
-        <span class="time">10 Mins</span>
-      </div>
-              <div class="amenity">
-        <div>
-            <span class="icon"><i class="fa-solid fa-train"></i></span>
-            <span>Infosys SEZ</span>
-        </div>
-        <span class="time">5 Mins</span>
-      </div>
-        
+    <h3>Address : </h3>
+    <p>Plot No.8, Avighna Enclave, 4th Floor, Above South Indian Bank, P&T Colony, <br> Medipally, Warangal Highway, Hyderabad – 500092.
+
+
+
+</p>
         
         
  

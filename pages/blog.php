@@ -3,7 +3,7 @@
        <div class="container">
         
             <div class="pagesection-title">
-                    <h1>Contact Us</h1>
+                    <h1>Blogs</h1>
                     <p>Start the conversation to established good
                     relationship and business.</p>
 

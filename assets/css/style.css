@@ -302,7 +302,7 @@ header.clr{
   display: flex;
   flex-wrap: wrap; /* Ensures responsiveness */
   gap: 16px!important; /* Space between cards */
-  justify-content: center; /* Center the cards horizontally */
+  justify-content: center;
   /* padding: 16px; Add some padding around */
   padding-top: 50px;
 
@@ -320,7 +320,7 @@ header.clr{
 /* Card styling */
 .card{
   flex: 1 1 calc(33.333% - 16px); /* Adjust width for 3 cards in a row with spacing */
-  max-width: 29%; /* Optional: limit card width */
+  max-width: 32%; /* Optional: limit card width */
   background: #f9f9f9; /* Card background */
   border: 1px solid #ddd; /* Optional: add a border */
   border-radius: 8px; /* Rounded corners */
@@ -658,7 +658,7 @@ header.clr{
   background-repeat: no-repeat;
   background-position:  bottom;
   background-size: contain;
-  width: 25%;
+  width: 20%;
   height: 100%;
   position: absolute;
   top: -87px;

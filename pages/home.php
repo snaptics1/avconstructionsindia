@@ -1,6 +1,6 @@
 <section class="hero">
 <div class="video" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
-  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/z0sPOAkOp84?autoplay=1&mute=1&loop=1&playlist=z0sPOAkOp84&controls=0&modestbranding=1&rel=0&showinfo=0&fs=0&iv_load_policy=3" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="object-fit: cover;"></iframe>
+  <div id="player" style="width: 100%; height: 100%;"></div>
 </div>
 
 
@@ -22,24 +22,13 @@
 
             <div class="card-handler">
                 
-                <div class="card">
+                <div class="card" style="max-width: 80%;">
                    <a href="AV-Vinoothna.php">
-                   <img src="assets/img/exp/01.svg" alt="Card 1" class="card-image" />
+                   <img src="assets/img/projects/AV Vinoothna Homes EBrochure  Final_Page_02.jpg" alt="Card 1" class="card-image" />
                    <h3 class="card-title">AV Vinoothna Homes</h3>
                    </a>
                 </div>
-                <div class="card">
-                    <a href="">
-                    <img src="assets/img/exp/02.svg" alt="Card 2" class="card-image" />
-                    <h3 class="card-title">AV Vinoothna Homes</h3>
-                    </a>
-                </div>
-                <div class="card">
-                    <a href="">
-                    <img src="assets/img/exp/03.svg" alt="Card 3" class="card-image" />
-                    <h3 class="card-title">Club AV Vinoothna Homes</h3>
-                    </a>
-                </div>
+             
                 
                 
             </div>
@@ -94,25 +83,25 @@
                                 </a>
                                 </div>
                                 <div class="servicecard">
-                                    <a href="">
+                                    <a href="about.php">
                                     <img src="assets/img/service/01.svg" alt="Card 2" class="card-image" />
                                     <h3 class="card-title">About Us</h3>
                                     </a>
                                 </div>
                                 <div class="servicecard">
-                                    <a href="">
+                                    <a href="contact.php">
                                     <img src="assets/img/service/02.svg" alt="Card 3" class="card-image" />
                                     <h3 class="card-title">Contact Us</h3>
                                     </a>
                                 </div>
                                 <div class="servicecard">
-                                    <a href="">
+                                    <a href="projects.php">
                                     <img src="assets/img/service/03.svg" alt="Card 3" class="card-image" />
                                     <h3 class="card-title">Projects</h3>
                                     </a>
                                 </div>
                                 <div class="servicecard">
-                                    <a href="">
+                                    <a href="blog.php">
                                     <img src="assets/img/service/04.svg" alt="Card 3" class="card-image" />
                                     <h3 class="card-title">Blogs</h3>
                                     </a>
@@ -151,7 +140,7 @@
                 <div class="testimonial-card">
                 <div class="testimonial-content">
                     <div class="profile-img">
-                    <img src="https://via.placeholder.com/100" alt="Priya">
+                    <img src="assets/img/test/user1.jpg" alt="Priya">
                     </div>
                     <div class="testimonial-text">
                     <h3>Priya</h3>
@@ -167,7 +156,7 @@
                 <div class="testimonial-card">
                 <div class="testimonial-content">
                     <div class="profile-img">
-                    <img src="https://via.placeholder.com/100" alt="Priya">
+                    <img src="assets/img/test/user2.avif" alt="Priya">
                     </div>
                     <div class="testimonial-text">
                     <h3>Vikram</h3>
@@ -181,7 +170,7 @@
                 <div class="testimonial-card">
                 <div class="testimonial-content">
                     <div class="profile-img">
-                    <img src="https://via.placeholder.com/100" alt="Priya">
+                    <img src="assets/img/test/user3.avif" alt="Priya">
                     </div>
                     <div class="testimonial-text">
                     <h3>Priya</h3>
@@ -195,7 +184,7 @@
                 <div class="testimonial-card">
                 <div class="testimonial-content">
                     <div class="profile-img">
-                    <img src="https://via.placeholder.com/100" alt="Priya">
+                    <img src="assets/img/test/user4.avif" alt="Priya">
                     </div>
                     <div class="testimonial-text">
                     <h3>Priya</h3>
@@ -209,7 +198,7 @@
                 <div class="testimonial-card">
                 <div class="testimonial-content">
                     <div class="profile-img">
-                    <img src="https://via.placeholder.com/100" alt="Priya">
+                    <img src="assets/img/test/user5.jpg" alt="Priya">
                     </div>
                     <div class="testimonial-text">
                     <h3>Priya</h3>
@@ -223,7 +212,7 @@
                 <div class="testimonial-card">
                 <div class="testimonial-content">
                     <div class="profile-img">
-                    <img src="https://via.placeholder.com/100" alt="Priya">
+                    <img src="assets/img/test/user6.jpg" alt="Priya">
                     </div>
                     <div class="testimonial-text">
                     <h3>Priya</h3>
@@ -299,4 +288,36 @@
     window.addEventListener("scroll", handleScroll);
     handleScroll(); 
   });
+</script>
+
+<script>
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      width: '100%',
+      height: '100%',
+      videoId: 'z0sPOAkOp84',
+      playerVars: {
+        autoplay: 1,
+        mute: 1,
+        start: 10,
+        loop: 1,
+        rel: 0,
+        controls: 0,
+        playlist: 'z0sPOAkOp84'
+      },
+      events: {
+        onStateChange: function(event) {
+          if (event.data === YT.PlayerState.ENDED) {
+            player.seekTo(10); // Go back to the 10-second mark
+          }
+        }
+      }
+    });
+  }
 </script>

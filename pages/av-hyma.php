@@ -69,28 +69,24 @@
       </div>
       <div class="amenity">
         <div>
-            <span class="icon"><i class="fa-solid fa-school"></i></span>
             <span>Area</span>
         </div>
         <span class="time">1225-1830sqt</span>
       </div>
       <div class="amenity">
         <div>
-            <span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>
             <span>Location</span>
         </div>
         <span class="time">Tarnaka, Hyderabad</span>
       </div>
       <div class="amenity">
         <div>
-            <span class="icon"><i class="fa-solid fa-train"></i></span>
             <span>Type</span>
         </div>
         <span class="time">Apartments</span>
       </div>
        <div class="amenity">
         <div>
-            <span class="icon"><i class="fa-solid fa-train"></i></span>
             <span>Total Flats</span>
         </div>
         <span class="time">50</span>
@@ -248,15 +244,15 @@
                       <h4>Indoor Games</h4>
                     </div>
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/indoor-games.svg" alt="Indoor Games">
+                      <img style="height: 40px;width: 40px;" src="assets/img/projects/power.png" alt="Indoor Games">
                       <h4>Solar fencing</h4>
                     </div>
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/indoor-games.svg" alt="Indoor Games">
+                      <img style="height: 40px;width: 40px;" src="assets/img/projects/runningtrack.png" alt="Indoor Games">
                       <h4>Jogging track</h4>
                     </div>
                     <div class="amenityy">
-                      <img src="assets/img/projects/first/indoor-games.svg" alt="Indoor Games">
+                      <img style="transform:rotate(90deg)"  style="height:30px;width: 40px;" src="assets/img/projects/rectangle.png" alt="Indoor Games">
                       <h4>Intercom Facility</h4>
                     </div>
                    
@@ -277,29 +273,29 @@
 <div class="container">
   <h2 class="text-center pt-3">Gallery</h2>
   <div class="gallery">
-    <a href="assets/img/projects/first/01.svg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/01.svg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery1.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery1.webp" alt="Gallery Image">
     </a>
-    <a href="assets/img/projects/first/Av-Vinoothna-Homes-Villas-WestFacing-Villa-850x480.jpg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/Av-Vinoothna-Homes-Villas-WestFacing-Villa-850x480.jpg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery2.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery2.webp" alt="Gallery Image">
     </a>
-    <a href="assets/img/projects/first/03.svg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/03.svg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery3.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery3.webp" alt="Gallery Image">
     </a>
-    <a href="assets/img/projects/first/04.svg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/04.svg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery4.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery4.webp" alt="Gallery Image">
     </a>
-    <a href="assets/img/projects/first/05.svg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/05.svg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery5.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery5.webp" alt="Gallery Image">
     </a>
-    <a href="assets/img/projects/first/06.svg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/06.svg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery6.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery6.webp" alt="Gallery Image">
     </a>
-    <a href="assets/img/projects/first/07.svg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/07.svg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery7.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery7.webp" alt="Gallery Image">
     </a>
-    <a href="assets/img/projects/first/08.svg" data-lightbox="gallery" data-title="My caption">
-      <img src="assets/img/projects/first/08.svg" alt="Gallery Image">
+    <a href="assets/img/projects/hyma/gallery8.webp" data-lightbox="gallery" data-title="My caption">
+      <img src="assets/img/projects/hyma/gallery8.webp" alt="Gallery Image">
     </a>
   </div>
 </div>
